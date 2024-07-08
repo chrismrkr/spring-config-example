@@ -1,5 +1,5 @@
 token:
-  expiration_time:   # 1Day
+  expiration_time: 86400000 # 1Day
   secret: usertokenaabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzzaabbccddeeffgghhiihkfdsao123456780011234ff13sdgg123s
 
 gateway:
